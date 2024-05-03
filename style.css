@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+/* .parent{
+    border: 2px solid;
+    padding: 30px;
+    margin: 40px;
+}
+.child{
+    color: white;
+    background-color: teal;
+}
+.child{
+    background-color: peru;
+}
+.parent:hover>.child{
+    background-color: blueviolet;
+} */
+p::first-letter{
+    font-size: 48px;
+
+}
